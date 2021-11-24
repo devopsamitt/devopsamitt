@@ -1,4 +1,4 @@
-![Hey there, I'm Amit. I'm a DevOps Engineer and Cloud enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey there, I'm Amit. I'm a DevOps Engineer and Cloud enthusiast. Check out my work](https://github.com/devopsamitt/devopsamitt/raw/master/bio.gif)
 
 <!--
 **devopsamitt/devopsamitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
